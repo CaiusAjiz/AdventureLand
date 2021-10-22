@@ -1,2 +1,2 @@
 # AdventureLand
-My scripts in adventureland so I don't lose them
+My scripts from [Adventure.land](https://adventure.land/) so I don't lose them
